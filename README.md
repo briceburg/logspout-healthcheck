@@ -1,0 +1,1 @@
+# logspout-healthcheck
